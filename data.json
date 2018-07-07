@@ -3,5 +3,43 @@
     "name":"M.Sai Sri Harsha",
     "label":"Student",
     "email":"saisriharsha21@gmail.com"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+    "degree":"B-tech(Information Technology)",
+    "institute":"PVP Siddardha",
+    "data":["2015-19","94%"]
+  },
+  {
+    "degree":"Intermediate(M.P.C)",
+    "institute":"Sri Chaitanya junior college",
+    "data":["2016","92%"]
+  },
+  {
+  "degree":"S.S.C",
+  "institute":"Bhashyam Public School",
+  "data":["2014","87%"]
   }
+],
+"skills":[
+  {
+"title":"languages",
+"content":["C","JAVA","C++","RUBY"]
+},
+{
+"title":"database",
+"content":["sql","mysql","mongoDB"]
+},
+{
+"title":"WT",
+"content":["HTML","CSS","JS","XML"]
+},
+{
+"title":"Frameworks",
+"content":["Django","codeIgniter"]
+}
+]
 }
